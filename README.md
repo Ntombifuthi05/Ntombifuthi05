@@ -6,6 +6,7 @@
 
 🎓 Recent IT Graduate  
 💻 Aspiring Software Developer
+
 📍 Johannesburg, Gauteng South Africa  
 
 ## 🚀 About Me

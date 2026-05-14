@@ -1,4 +1,8 @@
 # Hi, I'm Ntombifuthi Petronella 👋
+![C#](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=csharp)
+![Flutter](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter)
+![Firebase](https://img.shields.io/badge/Firebase-orange?style=for-the-badge&logo=firebase)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-blue?style=for-the-badge&logo=dotnet)
 
 🎓 Recent IT Graduate  
 💻 Web & Mobile Developer  
@@ -8,11 +12,6 @@
 I am passionate about building modern web and mobile applications that solve real-world problems.  
 I enjoy creating responsive, user-friendly systems using modern technologies and continuously improving my development skills.
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ntombifuthi05&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ntombifuthi05&layout=compact)
 
 ## 🛠 Tech Stack
 

@@ -8,6 +8,12 @@
 I am passionate about building modern web and mobile applications that solve real-world problems.  
 I enjoy creating responsive, user-friendly systems using modern technologies and continuously improving my development skills.
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ntombifuthi05&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ntombifuthi05&layout=compact)
+
 ## 🛠 Tech Stack
 
 ### Languages

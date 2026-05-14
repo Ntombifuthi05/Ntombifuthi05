@@ -5,12 +5,15 @@
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-blue?style=for-the-badge&logo=dotnet)
 
 🎓 Recent IT Graduate  
-💻 Web & Mobile Developer  
-📍 South Africa  
+💻 Software Dev| Software Engineering|   
+📍 Johannesburg, Gauteng South Africa  
 
 ## 🚀 About Me
-I am passionate about building modern web and mobile applications that solve real-world problems.  
-I enjoy creating responsive, user-friendly systems using modern technologies and continuously improving my development skills.
+I am a passionate developer focused on building modern, user-centered web and mobile applications that solve real-world problems. I have hands-on experience developing full-stack systems using ASP.NET Core MVC, Flutter, Firebase, Firestore, and C#, with a strong interest in software engineering, UI/UX design, and modern application development.  [oai_citation:0‡ntombifuthiP_updatedCV 2.pdf](sediment://file_00000000cd2871fd887c642bbff41bfd)
+
+I have worked on real-world systems including a Leave Management System developed during Work Integrated Learning, where I contributed to both the web and mobile applications. My responsibilities included implementing authentication, approval workflows, Firebase integration, real-time data synchronization, and responsive user interfaces.  [oai_citation:1‡ntombifuthiP_updatedCV 2.pdf](sediment://file_00000000cd2871fd887c642bbff41bfd)
+
+I enjoy transforming ideas into practical digital solutions and continuously improving my skills through hands-on development. My experience includes building management systems, booking applications, responsive websites, and mobile applications with clean and intuitive user experiences.
 
 
 ## 🛠 Tech Stack
